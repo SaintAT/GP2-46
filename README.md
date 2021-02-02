@@ -9,3 +9,7 @@ Play around with github because if we are going to be in the same group for GP3 
 
 Please make sure you add a text file with your name on it just so I can show that the whole team engaged with the repository
 
+
+
+There's also a guide that we will probbaly need to read later on. For using branches like what we are doing with monday.com
+https://guides.github.com/activities/hello-world/
